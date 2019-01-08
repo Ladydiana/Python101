@@ -19,14 +19,14 @@
 
 ### Comparison Operators
 
-| Operator      | Description   			| 			Example			|
-| ------------- | ------------------------ 	| --------------------------
-|		>		| Greater than				|        ``` a>b ```		|
-|		<		| Less than					|        ``` a<b ```		|
-|		>=		| Greater than or Equal to 	|        ``` a>=b ```		|
-|		<=		| Less than or Equal to 	|        ``` a<=b ```		|
-|      == 		| Equality Operator  		|        ``` a==b ```		|
-|      !=  		| Not Equal Operator  		|        ``` a!=b ```		|
+| Operator      | Description   			| 			Example			| Result (a=3, b=5)	|
+| ------------- | ------------------------ 	| ------------------------- | ----------------- |
+|		>		| Greater than				|        ``` a>b ```		| 		False 		|
+|		<		| Less than					|        ``` a<b ```		| 		True		|
+|		>=		| Greater than or Equal to 	|        ``` a>=b ```		| 		False 		|
+|		<=		| Less than or Equal to 	|        ``` a<=b ```		| 		True		|
+|      == 		| Equality Operator  		|        ``` a==b ```		| 		False		|
+|      !=  		| Not Equal Operator  		|        ``` a!=b ```		|		True		|
 
 ### Logical Operators
 
