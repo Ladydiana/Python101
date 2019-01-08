@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Data Types](https://github.com/Ladydiana/Python101#data-types)
-- [Variables] (https://github.com/Ladydiana/Python101#variables)
+- [Variables](https://github.com/Ladydiana/Python101#variables)
 - [Assignment Operators](https://github.com/Ladydiana/Python101#assignment-operators)
 - [Arithmetic Operators](https://github.com/Ladydiana/Python101#arithmetic-operators)
 - [Printing](https://github.com/Ladydiana/Python101#printing)
@@ -14,17 +14,17 @@
 
 
 ### Data Types
-| Data Types      			| 		Example								|
-| ------------- 			|  ------------------------- 				|
-|	Integer					|         ``` 1234567123 ```				|
-|	Floating Point Numbers	|         ``` 2.5 ```, ``` .3e5 ```			|
-|	Complex Numbers			|         ``` 2 + 5j ```					|
-|	Strings					|         ``` "I am Groot." ```				|
-|   Boolean 				|         ``` True ```, ```False ```		|
-|   Lists  					|         ``` [1,2,3] ```					|
-|   Dictionaries  			|         ``` {'key1': 'value1', 'key2':'value2'} ```					|
-|   Tuples  				|         ``` (1,2,3) ```					| <- tuples do not support value assignment
-|   Sets  					|         ``` {1,2,3} ```					|
+| Data Types      			| 		Example								| Comments 			|
+| ------------- 			|  ------------------------- 				| --------------------
+|	Integer					|         ``` 1234567123 ```				| In Python 3 integers have no length limit |
+|	Floating Point Numbers	|         ``` 2.5 ```, ``` .3e5 ```			| |
+|	Complex Numbers			|         ``` 2 + 5j ```					| |
+|	Strings					|         ``` "I am Groot." ```				| |
+|   Boolean 				|         ``` True ```, ```False ```		| |
+|   Lists  					|         ``` [1,2,3] ```					| |
+|   Dictionaries  			|         ``` {'key1': 'value1', 'key2':'value2'} ```					| |
+|   Tuples  				|         ``` (1,2,3) ```					| Tuples do not support value assignment |
+|   Sets  					|         ``` {1,2,3} ```					| |
 
 
 To determine the type of a variable or expression we use the ``` type()``` function.
