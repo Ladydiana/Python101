@@ -43,8 +43,11 @@ To determine the type of a variable or expression we use the ``` type()``` funct
 ## Naming conventions
 
 ```  joined_lower ```  for functions, methods, attributes, variables (also called Snake Case)
+
 ```  joined_lower or ALL_CAPS ```  for constants
+
 ```  StudlyCaps ```  for classes (also called Pascal Case)
+
 ```  camelCase ```  only to conform to pre-existing conventions
 
 Variable names in Python cannot start with a number or special characters and cannot be a reserved word.
