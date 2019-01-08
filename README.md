@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- Data Types
+- [Data Types] (https://github.com/Ladydiana/Python101#data-types)
 - Assignment Operators
 - Arithmetic Operators
 - Logical Operators
