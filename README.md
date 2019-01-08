@@ -1,8 +1,11 @@
 # Python101 - A Guide to Python 
 
 
-<p align="center"> ★★★ </p>
+
+
 ---------------------------------------------------------------
+
+<p align="center"> ★★★ </p>
 
 ## Table of Contents
 
@@ -16,9 +19,10 @@
 - [Conditional Operators](https://github.com/Ladydiana/Python101#conditional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
+<p align="center"> ★★★ </p>  
 
 ---------------------------------------------------------------
-<p align="center"> ★★★ </p>  
+
 
 
 ## Data Types
