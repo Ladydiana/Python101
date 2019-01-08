@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Data Types](https://github.com/Ladydiana/Python101#data-types)
-- [Variables](https://github.com/Ladydiana/Python101#variables)
+- [Naming Conventions](https://github.com/Ladydiana/Python101#naming-conventions)
 - [Assignment Operators](https://github.com/Ladydiana/Python101#assignment-operators)
 - [Arithmetic Operators](https://github.com/Ladydiana/Python101#arithmetic-operators)
 - [Printing](https://github.com/Ladydiana/Python101#printing)
@@ -40,8 +40,14 @@ To determine the type of a variable or expression we use the ``` type()``` funct
 
 
 
-## Variables
-Variable names in Python cannot start with a number or special characters.
+## Naming conventions
+
+```  joined_lower ```  for functions, methods, attributes, variables (also called Snake Case)
+```  joined_lower or ALL_CAPS ```  for constants
+```  StudlyCaps ```  for classes (also called Pascal Case)
+```  camelCase ```  only to conform to pre-existing conventions
+
+Variable names in Python cannot start with a number or special characters and cannot be a reserved word.
 
 
 
