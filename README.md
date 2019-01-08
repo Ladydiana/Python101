@@ -17,7 +17,8 @@
 
 ---------------------------------------------------------------
 
-### Data Types
+
+## Data Types
 | Data Types      			| 		Example								| Comments 			|
 | ------------- 			|  ------------------------- 				| --------------------
 |	Integer					|         ``` 1234567123 ```				| In Python 3 integers have no length limit |
@@ -35,28 +36,28 @@ To determine the type of a variable or expression we use the ``` type()``` funct
 
 
 
-### Variables
+## Variables
 Variable names in Python cannot start with a number or special characters.
 
 
 
-### Assignment Operators
+## Assignment Operators
 TODO
 
 
 
-### Arithmetic Operators
+## Arithmetic Operators
 TODO
 
 
 
-### Printing
+## Printing
 TODO: -> print()
 TODO: -> Escape Characters
 
 
 
-### Comparison Operators
+## Comparison Operators
 
 | Operator      | Description   			| 			Example			| Result (a=3, b=5)		|
 | ------------- | ------------------------ 	| ------------------------- | ---------------------	|
@@ -67,16 +68,16 @@ TODO: -> Escape Characters
 |      == 		| Equality Operator  		|        ``` a==b ```		| 	```	False ```		|
 |      !=  		| Not Equal Operator  		|        ``` a!=b ```		|	```	True ```		|
 
-### Logical Operators
+## Logical Operators
 TODO
 
 
 
-### Conditional Operators
+## Conditional Operators
 TODO
 
 
 
-### Loops
+## Loops
 TODO: for, while, do while
 
