@@ -21,12 +21,12 @@
 
 | Operator      | Description   			| 			Example			|
 | ------------- | ------------------------ 	| --------------------------
-|		>		| Greater than				|        ``` a>b ````		|
-|		<		| Less than					|        ``` a<b ````		|
-|		>=		| Greater than or Equal to 	|        ``` a>=b ````		|
-|		<=		| Less than or Equal to 	|        ``` a<=b ````		|
-|      == 		| Equality Operator  		|        ``` a==b ````		|
-|      !=  		| Not Equal Operator  		|        ``` a!=b ````		|
+|		>		| Greater than				|        ``` a>b ```		|
+|		<		| Less than					|        ``` a<b ```		|
+|		>=		| Greater than or Equal to 	|        ``` a>=b ```		|
+|		<=		| Less than or Equal to 	|        ``` a<=b ```		|
+|      == 		| Equality Operator  		|        ``` a==b ```		|
+|      !=  		| Not Equal Operator  		|        ``` a!=b ```		|
 
 ### Logical Operators
 
