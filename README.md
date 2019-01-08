@@ -1,5 +1,7 @@
 # Python101 - A Guide to Python 
 
+---------------------------------------------------------------
+
 ## Table of Contents
 
 - [Data Types](https://github.com/Ladydiana/Python101#data-types)
@@ -13,6 +15,7 @@
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
 
+---------------------------------------------------------------
 
 ### Data Types
 | Data Types      			| 		Example								| Comments 			|
