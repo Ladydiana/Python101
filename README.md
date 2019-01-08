@@ -79,12 +79,15 @@ print(n)
 
 
 ## Arithmetic Operators
+
 TODO
 
 
 
 ## Printing
+
 TODO: -> print()
+
 TODO: -> Escape Characters
 
 
@@ -100,16 +103,21 @@ TODO: -> Escape Characters
 |      == 		| Equality Operator  		|        ``` a==b ```		| 	```	False ```		|
 |      !=  		| Not Equal Operator  		|        ``` a!=b ```		|	```	True ```		|
 
+
+
 ## Logical Operators
+
 TODO
 
 
 
 ## Conditional Operators
+
 TODO
 
 
 
 ## Loops
+
 TODO: for, while, do while
 
