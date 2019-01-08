@@ -23,6 +23,7 @@
 
 
 ## Data Types
+
 | Data Types      			| 		Example								| Comments 			|
 | ------------- 			|  ------------------------- 				| --------------------
 |	Integer					|         ``` 1234567123 ```				| In Python 3 integers have no length limit |
@@ -55,7 +56,25 @@ Variable names in Python cannot start with a number or special characters and ca
 
 
 ## Assignment Operators
-TODO
+
+In Python, variables don't need a type to be assigned previously or during the declaration and dont need to be defined in advance.
+
+``` n = 3 ```
+
+Python allows chained assignments, so that assigning the same value to multiple variables is easier.
+
+```a = b = c = 5 ```
+
+Also, variables in Python are not typre restricted, so a variable which was previously an int can be reassigned as a string.
+
+``` 
+n = 12
+print(n)
+>>> 12
+n = "This is Sparta!"
+print(n)
+>>> This is Sparta!
+```
 
 
 
