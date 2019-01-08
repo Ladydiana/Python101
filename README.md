@@ -13,6 +13,7 @@
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
 
+
 ### Data Types
 | Data Types      			| 		Example								| Comments 			|
 | ------------- 			|  ------------------------- 				| --------------------
@@ -30,19 +31,27 @@
 To determine the type of a variable or expression we use the ``` type()``` function.
 
 
+
 ### Variables
 Variable names in Python cannot start with a number or special characters.
+
 
 
 ### Assignment Operators
 TODO
 
+
+
 ### Arithmetic Operators
 TODO
+
+
 
 ### Printing
 TODO: -> print()
 TODO: -> Escape Characters
+
+
 
 ### Comparison Operators
 
@@ -58,8 +67,12 @@ TODO: -> Escape Characters
 ### Logical Operators
 TODO
 
+
+
 ### Conditional Operators
 TODO
+
+
 
 ### Loops
 TODO: for, while, do while
