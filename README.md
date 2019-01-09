@@ -25,7 +25,13 @@
   - [Mode](https://github.com/Ladydiana/Python101#arithmetic-operators)  		
   - [Floor Division](https://github.com/Ladydiana/Python101#arithmetic-operators)
   - [Exponent](https://github.com/Ladydiana/Python101#arithmetic-operators)
-- [Bitwise Operators](https://github.com/Ladydiana/Python101#bitwise-operators)  
+- [Bitwise Operators](https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [AND](https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [OR]((https://github.com/Ladydiana/Python101#bitwise-operators))
+  - [XOR](https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [NOT](https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [RIGHT SHIFT](https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [LEFT SHIFT](https://github.com/Ladydiana/Python101#bitwise-operators)
 - [Comparison Operators](https://github.com/Ladydiana/Python101#comparison-operators)
 - [Logical Operators](https://github.com/Ladydiana/Python101#logical-operators)
 - [Conditional Operators](https://github.com/Ladydiana/Python101#conditional-operators)
@@ -118,7 +124,14 @@ print(n)
 
 ## Bitwise Operators
 
-TODO
+| Operator      | Description   			| 			Example			| Result (a=10 (binary 00001010), b=2 (binary 00000100))		|
+| ------------- | ------------------------ 	| ------------------------- | ---------------------	|
+|		&		| Bitwise AND				|        ``` a & b ```		| 	```	0 ``` (binary 0000 0000)		|
+|		|		| Bitwise OR				|        ``` a | b ```		| 	```	14 ``` (binary 0000 1110) 		|
+|		^		| Bitwise XOR 				|        ``` a ^ b ```		| 	```	14 ``` (binary 0000 1110)		|
+|		~		| Bitwise NOT 				|        ``` ~a ```			| 	```	-11 ``` (binary 1111 0101)	 	|
+|       >>		| Bitwise RIGHT SHIFT  		|        ``` a >> 2 ```		| 	```	2 ``` (binary 0000 0010)		|
+|       <<  	| Bitwise LEFT SHIFT 		|        ``` a << 2 ```		|	```	40 ``` (binary 0010 1000)		|
 
 
 
