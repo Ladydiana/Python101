@@ -131,8 +131,8 @@ Like other programming languages, in Python you can alse use **composed assignme
 
 ## Arithmetic Operators
 
-| Operator      | Description   			| 			Example			| Result (a=4, b=2)		|
-| ------------- | ------------------------ 	| ------------------------- | ---------------------	|
+| Operator      | Description   			| 			Example			| Result (a=4, b=2)	|
+| :---: 		| ------------------------ 	| :---:						| :---:				|
 |		+		| Addition					|        ``` a+b ```		| 	```	6 ```		|
 |		-		| Subtraction				|        ``` a-b ```		| 	```	2```  		|
 |		*		| Multiplication 			|        ``` a*b ```		| 	```	8 ``` 		|
@@ -146,7 +146,7 @@ Like other programming languages, in Python you can alse use **composed assignme
 ## Bitwise Operators
 
 | Operator      | Description   			| 			Example			| Result (a=10 (binary 00001010), b=2 (binary 00000100))		|
-| ------------- | ------------------------ 	| ------------------------- | ----------------------------------------------------------	|
+| :---: 		| ------------------------ 	| :---:						| ----------------------------------------------------------	|
 |		&		| Bitwise AND				|        ``` a & b ```		| 	```	0 ```  (binary 0000 0000)		|
 |		\|		| Bitwise OR				|        ``` a \| b ```		| 	```	14 ```  (binary 0000 1110) 		|
 |		^		| Bitwise XOR 				|        ``` a ^ b ```		| 	```	14 ```  (binary 0000 1110)		|
@@ -159,7 +159,7 @@ Like other programming languages, in Python you can alse use **composed assignme
 ## Comparison Operators
 
 | Operator      | Description   			| 			Example			| Result (a=3, b=5)		|
-| ------------- | ------------------------ 	| ------------------------- | ---------------------	|
+| :---: 		| ------------------------ 	| :---: 					| :---:					|
 |		>		| Greater than				|        ``` a>b ```		| 	```	False ```		|
 |		<		| Less than					|        ``` a<b ```		| 	```	True ```  		|
 |		>=		| Greater than or Equal to 	|        ``` a>=b ```		| 	```	False ``` 		|
