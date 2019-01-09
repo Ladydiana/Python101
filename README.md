@@ -34,6 +34,8 @@
   - [LEFT SHIFT](https://github.com/Ladydiana/Python101#bitwise-operators)
 - [Comparison Operators](https://github.com/Ladydiana/Python101#comparison-operators)
 - [Logical Operators](https://github.com/Ladydiana/Python101#logical-operators)
+- [Identity Operators](https://github.com/Ladydiana/Python101#identity-operators)
+- [Membership Operators](https://github.com/Ladydiana/Python101#membership-operators)
 - [Conditional Operators](https://github.com/Ladydiana/Python101#conditional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
@@ -107,6 +109,26 @@ print(n)
 >>> This is Sparta!
 ```
 
+Like other programming languages, in Python you can alse use **composed assignment operators**.
+
+|<p align="center"> Composed Assignment Operators </p>                                      		|
+| ------------------------------------------------------------------------------------------------- |                                  
+| Operator      | Description   					| 			Example			| Equivalent to 	|	
+| ------------- | ------------------------ 			| ------------------------- | ----------------- |
+|		+=		| Addition to operand				|        ``` a += 2 ```		| 	```	a= a+2 ```		|
+|		-=		| Subtraction to operand			|        ``` a -= 2 ```		| 	```	a= a-2 ```  	|
+|		*=		| Multiplication with operand 		|        ``` a *= 2 ```		| 	```	a= a*2 ``` 		|
+|		/=		| Division with operand				|        ``` a /= 2 ```		| 	```	a= a/2 ```	 	|
+|       %= 		| Mode to opearand 					|        ``` a %= 2 ```		| 	```	a= a%2 ```		|
+|      //= 		| Floor Division to operand 		|        ``` a //= 5 ```	|	```	a= a//5 ```		|
+|      **= 		| Exponent to operand 				|        ``` a **= 5 ```	|	```	a= a**5 ```		|
+|      &=  		| Logical AND with operand 			|        ``` a &= b ```		|	```	a= a&b ```		|
+|      \|=  	| Logical OR with operand 			|        ``` a \|= b ```	|	```	a= a\|b ```		|
+|      ^=  		| Logical XOR with operand 			|        ``` a ^= b ```		|	```	a= a^b ```		|
+|      >>=  	| Bitwise RIGHT SHIFT with operand 	|        ``` a >>= 2 ```	|	```	a= a>>2```		|
+|      <<=  	| Bitwise LEFT SHIFT with operand 	|        ``` a <<= 2 ```	|	```	a= a<<2 ```		|
+
+
 
 
 ## Arithmetic Operators
@@ -122,6 +144,7 @@ print(n)
 |      **  		| Exponent  				|        ``` a**b ```		|	```	16 ```		|
 
 
+
 ## Bitwise Operators
 
 | Operator      | Description   			| 			Example			| Result (a=10 (binary 00001010), b=2 (binary 00000100))		|
@@ -132,7 +155,6 @@ print(n)
 |		~		| Bitwise NOT 				|        ``` ~a ```			| 	```	-11 ```  (binary 1111 0101)	 	|
 |       >>		| Bitwise RIGHT SHIFT  		|        ``` a >> 2 ```		| 	```	2 ```  (binary 0000 0010)		|
 |       <<  	| Bitwise LEFT SHIFT 		|        ``` a << 2 ```		|	```	40 ```  (binary 0010 1000)		|
-
 
 
 
@@ -150,6 +172,18 @@ print(n)
 
 
 ## Logical Operators
+
+TODO
+
+
+
+## Identity Operators
+
+TODO
+
+
+
+## Membership Operators
 
 TODO
 
