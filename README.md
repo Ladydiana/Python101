@@ -125,13 +125,13 @@ print(n)
 ## Bitwise Operators
 
 | Operator      | Description   			| 			Example			| Result (a=10 (binary 00001010), b=2 (binary 00000100))		|
-| ------------- | ------------------------ 	| ------------------------- | ---------------------	|
-|		&		| Bitwise AND				|        ``` a & b ```		| 	```	0 ``` (binary 0000 0000)		|
-|		|		| Bitwise OR				|        ``` a | b ```		| 	```	14 ``` (binary 0000 1110) 		|
-|		^		| Bitwise XOR 				|        ``` a ^ b ```		| 	```	14 ``` (binary 0000 1110)		|
-|		~		| Bitwise NOT 				|        ``` ~a ```			| 	```	-11 ``` (binary 1111 0101)	 	|
-|       >>		| Bitwise RIGHT SHIFT  		|        ``` a >> 2 ```		| 	```	2 ``` (binary 0000 0010)		|
-|       <<  	| Bitwise LEFT SHIFT 		|        ``` a << 2 ```		|	```	40 ``` (binary 0010 1000)		|
+| ------------- | ------------------------ 	| ------------------------- | ----------------------------------------------------------	|
+|		&		| Bitwise AND				|        ``` a & b ```		| 	```	0 ```  (binary 0000 0000)		|
+|		\|		| Bitwise OR				|        ``` a | b ```		| 	```	14 ```  (binary 0000 1110) 		|
+|		^		| Bitwise XOR 				|        ``` a ^ b ```		| 	```	14 ```  (binary 0000 1110)		|
+|		~		| Bitwise NOT 				|        ``` ~a ```			| 	```	-11 ```  (binary 1111 0101)	 	|
+|       >>		| Bitwise RIGHT SHIFT  		|        ``` a >> 2 ```		| 	```	2 ```  (binary 0000 0010)		|
+|       <<  	| Bitwise LEFT SHIFT 		|        ``` a << 2 ```		|	```	40 ```  (binary 0010 1000)		|
 
 
 
