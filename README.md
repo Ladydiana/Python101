@@ -111,8 +111,8 @@ print(n)
 
 Like other programming languages, in Python you can alse use **composed assignment operators**.
                                 
-| Operator      | Description   					| 			Example			| Equivalent to 	|	
-| ------:---:---| ----------:---:-------------- 	| ----------:---:-----------| ---------:---:---- |
+| Operator      | Description   					| 			Example			| Equivalent to 		|	
+| :---:			| :---:							 	| :---:						| :---:					|
 |		+=		| Addition to operand				|        ``` a += 2 ```		| 	```	a= a+2 ```		|
 |		-=		| Subtraction to operand			|        ``` a -= 2 ```		| 	```	a= a-2 ```  	|
 |		*=		| Multiplication with operand 		|        ``` a *= 2 ```		| 	```	a= a*2 ``` 		|
