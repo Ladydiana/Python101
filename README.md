@@ -85,7 +85,25 @@ Variable names in Python cannot start with a number or special characters and ca
 
 ## Printing
 
-TODO: -> print()
+There are a few printing methods in Python.
+
+The first one is directly calling the varible.
+
+```
+ x = 'Hello World!'
+ x
+>>> 'Hello World!'
+```
+
+The downside to this method is that it also shows the quotes around a string.
+
+
+The second method is by calling the ``` print() ``` function.
+
+``` 
+print(x)
+>>> Hello World!
+``` 
 
 TODO: -> Escape Characters
 
