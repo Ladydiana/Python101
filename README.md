@@ -26,14 +26,17 @@
   - [Floor Division](https://github.com/Ladydiana/Python101#arithmetic-operators)
   - [Exponent](https://github.com/Ladydiana/Python101#arithmetic-operators)
 - [Bitwise Operators](https://github.com/Ladydiana/Python101#bitwise-operators)
-  - [AND](https://github.com/Ladydiana/Python101#bitwise-operators)
-  - [OR]((https://github.com/Ladydiana/Python101#bitwise-operators))
+  - [Bitwise AND](https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [Bitwise OR]((https://github.com/Ladydiana/Python101#bitwise-operators)
   - [XOR](https://github.com/Ladydiana/Python101#bitwise-operators)
-  - [NOT](https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [Bitwise NOT](https://github.com/Ladydiana/Python101#bitwise-operators)
   - [RIGHT SHIFT](https://github.com/Ladydiana/Python101#bitwise-operators)
   - [LEFT SHIFT](https://github.com/Ladydiana/Python101#bitwise-operators)
 - [Comparison Operators](https://github.com/Ladydiana/Python101#comparison-operators)
 - [Logical Operators](https://github.com/Ladydiana/Python101#logical-operators)
+  - [AND](https://github.com/Ladydiana/Python101#logical-operators)
+  - [OR](https://github.com/Ladydiana/Python101#logical-operators)
+  - [NOT](https://github.com/Ladydiana/Python101#logical-operators)
 - [Identity Operators](https://github.com/Ladydiana/Python101#identity-operators)
 - [Membership Operators](https://github.com/Ladydiana/Python101#membership-operators)
 - [Conditional Operators](https://github.com/Ladydiana/Python101#conditional-operators)
@@ -171,7 +174,11 @@ Like other programming languages, in Python you can alse use **composed assignme
 
 ## Logical Operators
 
-TODO
+| Operator      | Description   						| 			Example			| 
+| :---: 		| ------------------------ 				| :---:						| 
+|		AND		| True is both operands are true		|        ``` a AND b ```	|	
+|		OR		| True if at least one operand is true	|        ``` a OR b ```		| 
+|		NOT		| Complement of the operand 			|        ``` NOT a ```		| 
 
 
 
