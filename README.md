@@ -27,7 +27,7 @@
   - [Exponent](https://github.com/Ladydiana/Python101#arithmetic-operators)
 - [Bitwise Operators](https://github.com/Ladydiana/Python101#bitwise-operators)
   - [Bitwise AND](https://github.com/Ladydiana/Python101#bitwise-operators)
-  - [Bitwise OR]((https://github.com/Ladydiana/Python101#bitwise-operators)
+  - [Bitwise OR](https://github.com/Ladydiana/Python101#bitwise-operators)
   - [XOR](https://github.com/Ladydiana/Python101#bitwise-operators)
   - [Bitwise NOT](https://github.com/Ladydiana/Python101#bitwise-operators)
   - [RIGHT SHIFT](https://github.com/Ladydiana/Python101#bitwise-operators)
