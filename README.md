@@ -38,6 +38,8 @@
   - [OR](https://github.com/Ladydiana/Python101#logical-operators)
   - [NOT](https://github.com/Ladydiana/Python101#logical-operators)
 - [Identity Operators](https://github.com/Ladydiana/Python101#identity-operators)
+  - [is](https://github.com/Ladydiana/Python101#identity-operators)
+  - [is not](https://github.com/Ladydiana/Python101#identity-operators)
 - [Membership Operators](https://github.com/Ladydiana/Python101#membership-operators)
 - [Conditional Operators](https://github.com/Ladydiana/Python101#conditional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
