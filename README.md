@@ -102,6 +102,8 @@ The downside to this method is that it also shows the quotes around a string.
 
 The second method is by calling the ``` print() ``` function.
 
+The print function accepts more than one argument to display.
+
 ``` 
 print(x)
 >>> Hello World!
