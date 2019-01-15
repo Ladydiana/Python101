@@ -41,6 +41,8 @@
   - [is](https://github.com/Ladydiana/Python101#identity-operators)
   - [is not](https://github.com/Ladydiana/Python101#identity-operators)
 - [Membership Operators](https://github.com/Ladydiana/Python101#membership-operators)
+  - [in](https://github.com/Ladydiana/Python101#membership-operators)
+  - [not in](https://github.com/Ladydiana/Python101#membership-operators)
 - [Conditional Operators](https://github.com/Ladydiana/Python101#conditional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
@@ -206,13 +208,21 @@ Like other programming languages, in Python you can alse use **composed assignme
 
 ## Identity Operators
 
-TODO
+Used to check if 
+
+| Operator      | Description   			| 			Example			| Result (a=4, b=2)	|
+| :---: 		| ------------------------ 	| :---:						| :---:				|
+|	is			| Addition					|        ``` a+b ```		| 	```	6 ```		|
+|	is not		| Subtraction				|        ``` a-b ```		| 	```	2```  		|
 
 
 
 ## Membership Operators
 
-TODO
+| Operator      | Description   			| 			Example			| Result (a=4, b=2)	|
+| :---: 		| ------------------------ 	| :---:						| :---:				|
+|	in			| Addition					|        ``` a+b ```		| 	```	6 ```		|
+|	not in		| Subtraction				|        ``` a-b ```		| 	```	2```  		|
 
 
 
