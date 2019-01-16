@@ -220,7 +220,7 @@ Used to check if two variables are in the same part of the memory.
 |	is not		| True if the operands do not refer to the same object		|        ``` x is not True ```	|
 
 
-
+<br>
 ## Membership Operators
 
 | Operator      | Description   			| 			Example			| Result (a=4, b=2)	|
