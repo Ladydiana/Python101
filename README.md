@@ -233,10 +233,12 @@ Used to check if two variables are in the same part of the memory.
 
 ## Membership Operators
 
-| Operator      | Description   			| 			Example			| Result (a=4, b=2)	|
-| :---: 		| ------------------------ 	| :---:						| :---:				|
-|	in			| Addition					|        ``` a+b ```		| 	```	6 ```		|
-|	not in		| Subtraction				|        ``` a-b ```		| 	```	2```  		|
+Used to test a variable's membership to a certain structure.
+
+| Operator      | Description   							| 			Example				|
+| :---: 		| ------------------------ 					| :---:							| 
+|	in			| True if variable is found in sequence		|        ``` 3 in x```			| 
+|	not in		| True if variable is not found in sequence	|        ``` 3 not in x ```		|
 
 
 <br/>
