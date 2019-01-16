@@ -211,7 +211,8 @@ Like other programming languages, in Python you can alse use **composed assignme
 Used to check if two variables are in the same part of the memory.
 ```diff 
 - !Attention!
-``` This does not imply equality.
+``` 
+This does not imply equality.
 
 | Operator      | Description   											| 			Example				|
 | :---: 		| ------------------------ 									| :---:							|
