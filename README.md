@@ -53,6 +53,7 @@
 ---------------------------------------------------------------
 
 
+<br/>
 
 ## Data Types
 
@@ -72,6 +73,7 @@
 To determine the type of a variable or expression we use the ``` type()``` function.
 
 
+<br/>
 
 ## Naming conventions
 
@@ -86,6 +88,7 @@ To determine the type of a variable or expression we use the ``` type()``` funct
 Variable names in Python cannot start with a number or special characters and cannot be a reserved word.
 
 
+<br/>
 
 ## Printing
 
@@ -114,6 +117,7 @@ print(x)
 TODO: -> Escape Characters
 
 
+<br/>
 
 ## Assignment Operators
 
@@ -155,6 +159,7 @@ Like other programming languages, in Python you can alse use **composed assignme
 
 
 
+<br/>
 
 ## Arithmetic Operators
 
@@ -169,6 +174,7 @@ Like other programming languages, in Python you can alse use **composed assignme
 |      **  		| Exponent  				|        ``` a**b ```		|	```	16 ```		|
 
 
+<br/>
 
 ## Bitwise Operators
 
@@ -182,6 +188,7 @@ Like other programming languages, in Python you can alse use **composed assignme
 |       <<  	| Bitwise LEFT SHIFT 		|        ``` a << 2 ```		|	```	40 ```  (binary 0010 1000)		|
 
 
+<br/>
 
 ## Comparison Operators
 
@@ -195,6 +202,7 @@ Like other programming languages, in Python you can alse use **composed assignme
 |      !=  		| Not Equal Operator  		|        ``` a!=b ```		|	```	True ```		|
 
 
+<br/>
 
 ## Logical Operators
 
@@ -205,6 +213,7 @@ Like other programming languages, in Python you can alse use **composed assignme
 |		NOT		| Complement of the operand 			|        ``` NOT a ```		| 
 
 
+<br/>
 
 ## Identity Operators
 
@@ -230,12 +239,14 @@ Used to check if two variables are in the same part of the memory.
 |	not in		| Subtraction				|        ``` a-b ```		| 	```	2```  		|
 
 
+<br/>
 
 ## Conditional Operators
 
 TODO
 
 
+<br/>
 
 ## Loops
 
