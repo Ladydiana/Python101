@@ -208,12 +208,15 @@ Like other programming languages, in Python you can alse use **composed assignme
 
 ## Identity Operators
 
-Used to check if 
+Used to check if two variables are in the same part of the memory.
+```diff 
+- !Attention!
+``` This does not imply equality.
 
-| Operator      | Description   			| 			Example			| Result (a=4, b=2)	|
-| :---: 		| ------------------------ 	| :---:						| :---:				|
-|	is			| Addition					|        ``` a+b ```		| 	```	6 ```		|
-|	is not		| Subtraction				|        ``` a-b ```		| 	```	2```  		|
+| Operator      | Description   											| 			Example				|
+| :---: 		| ------------------------ 									| :---:							|
+|	is			| True if the operands refer to the same object				|        ``` x is True ```		| 
+|	is not		| True if the operands do not refer to the same object		|        ``` x is not True ```	|
 
 
 
