@@ -93,7 +93,8 @@ Variable names in Python cannot start with a number or special characters and ca
 
 ## Reserved keywords in Python
 
-| --------- |
+| Keyword   |
+| :---:	 	|
 | and       |
 | as        |
 | assert    |
