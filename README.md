@@ -15,6 +15,7 @@
   - [Tuples](https://github.com/Ladydiana/Python101#data-types)
   - [Sets](https://github.com/Ladydiana/Python101#data-types)
 - [Naming Conventions](https://github.com/Ladydiana/Python101#naming-conventions)
+- [Reserved Keywords](https://github.com/Ladydiana/Python101#reserved-keywords-in-python)
 - [Printing](https://github.com/Ladydiana/Python101#printing)
 - [Assignment Operators](https://github.com/Ladydiana/Python101#assignment-operators)
 - [Arithmetic Operators](https://github.com/Ladydiana/Python101#arithmetic-operators)
@@ -86,6 +87,45 @@ To determine the type of a variable or expression we use the ``` type()``` funct
 ```  camelCase ```  only to conform to pre-existing conventions
 
 Variable names in Python cannot start with a number or special characters and cannot be a reserved word.
+
+
+<br/>
+
+## Reserved keywords in Python
+
+| and       |
+| as        |
+| assert    |
+| break     |
+| class     |
+| continue  |
+| def       |
+| del       |
+| elif      |
+| else      |
+| except    |
+| False     |
+| finally   |
+| for       |
+| from      |
+| global    |
+| if        |
+| import    |
+| in        |
+| is        |
+| lambda    |
+| None      |
+| nonlocal  |
+| not       |
+| or 	    |
+| pass      |
+| raise     |
+| return    |
+| True 		|
+| try       |
+| while     |
+| with      |
+| yield     |
 
 
 <br/>
