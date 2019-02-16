@@ -93,9 +93,9 @@ Variable names in Python cannot start with a number or special characters and ca
 
 ## Reserved keywords in Python
 
-<p align="center">
 
-| &nbsp Keyword   |
+
+|           Keyword              |
 | :---:	 	|
 | and       |
 | as        |
@@ -131,7 +131,6 @@ Variable names in Python cannot start with a number or special characters and ca
 | with      |
 | yield     |
 
-</p>
 
 <br/>
 
