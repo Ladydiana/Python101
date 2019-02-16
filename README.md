@@ -300,7 +300,7 @@ Python does not require the condition/expression to be checked to be enclosed in
 
 Python defines blocks by indentation (called the off-side rule), not by curly brackets. So, in order to execute more commands in an if block, they need to have the same indentation.
 
-```
+```python
 if <expression>:
 	<statement>
 	<statement>
@@ -312,7 +312,7 @@ if <expression>:
 An if block containts statements with the same indentation. If the next block has other indentation, it is not considered to be part of the if block.
 
 
-```
+```python
 if <expression>:
 	<statement>
 	<statement>
