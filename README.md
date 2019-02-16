@@ -93,6 +93,8 @@ Variable names in Python cannot start with a number or special characters and ca
 
 ## Reserved keywords in Python
 
+<p align="center">
+
 | Keyword   |
 | :---:	 	|
 | and       |
@@ -129,6 +131,7 @@ Variable names in Python cannot start with a number or special characters and ca
 | with      |
 | yield     |
 
+</p>
 
 <br/>
 
@@ -287,7 +290,10 @@ Used to test a variable's membership to a certain structure.
 
 ## Conditional Operators
 
-TODO
+After the if statement, a colon ':' is required.
+Python does not require the condition/ expression to be checked to be enclosed in paranthesis.
+
+
 
 
 <br/>
