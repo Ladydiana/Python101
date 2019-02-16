@@ -45,6 +45,9 @@
   - [in](https://github.com/Ladydiana/Python101#membership-operators)
   - [not in](https://github.com/Ladydiana/Python101#membership-operators)
 - [Conditional Operators](https://github.com/Ladydiana/Python101#conditional-operators)
+  - [if](https://github.com/Ladydiana/Python101#conditional-operators)
+  - [elif](https://github.com/Ladydiana/Python101#conditional-operators)
+  - [else](https://github.com/Ladydiana/Python101#conditional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
 ---------------------------------------------------------------
@@ -289,10 +292,42 @@ Used to test a variable's membership to a certain structure.
 
 ## Conditional Operators
 
+Conditional Operators : **if, elif, else**.
+
 After the if statement, a colon ':' is required.
-Python does not require the condition/ expression to be checked to be enclosed in paranthesis.
+
+Python does not require the condition/expression to be checked to be enclosed in paranthesis.
+
+Python defines blocks by indentation (called the off-side rule), not by curly brackets. So, in order to execute more commands in an if block, they need to have the same indentation.
+
+```
+if <expression>:
+	<statement>
+	<statement>
+	...
+	<statement>
+<other blocks>
+```
+
+An if block containts statements with the same indentation. If the next block has other indentation, it is not considered to be part of the if block.
 
 
+```
+if <expression>:
+	<statement>
+	<statement>
+	...
+	<statement>
+elif <expression>:
+	<statement>
+	...
+else:
+	<statement>
+	...
+<other blocks>
+```
+
+In Python the *else if* statement is shertened as *elif*.
 
 
 <br/>
