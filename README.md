@@ -327,7 +327,7 @@ else:
 <other blocks>
 ```
 
-In Python the *else if* statement is shertened as *elif*.
+In Python the *else if* statement is shortened as *elif*.
 
 
 <br/>
