@@ -95,7 +95,7 @@ Variable names in Python cannot start with a number or special characters and ca
 
 
 
-|           Keyword              |
+|○       Keyword       ○|
 | :---:	 	|
 | and       |
 | as        |
