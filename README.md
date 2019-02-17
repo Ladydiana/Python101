@@ -340,7 +340,8 @@ elif <expression>:	<statement>; ... ; <statement>
 else:			<statement>; ... ; <statement>
 ```
 
-A conditional expression (sometimes defined as a **ternary operator**) defines a conditional structure in which the middle expression is evaluated first. If the middle expression is true, then it executes the expression on the left, if it false it executes the expression on the right.
+A **conditional expression** (sometimes defined as a **ternary operator**) defines a conditional structure in which the middle expression is evaluated first. If the middle expression is true, then it executes the expression on the left, if it false it executes the expression on the right.
+
 Conditional expressions are similar to other programming languages' *<condition> ? <expression 1> : <expression 2>* structure.
 
 ```python
@@ -350,6 +351,7 @@ Conditional expressions are similar to other programming languages' *<condition>
 ```python
 #Example
 val = a if a >= b else b
+s = 13 + (val if b < 10 else a) + 22
 ```
 
 
