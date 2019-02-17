@@ -48,6 +48,7 @@
   - [if](https://github.com/Ladydiana/Python101#conditional-operators)
   - [elif](https://github.com/Ladydiana/Python101#conditional-operators)
   - [else](https://github.com/Ladydiana/Python101#conditional-operators)
+  - [pass](https://github.com/Ladydiana/Python101#conditional-operators)
   - [Conditional Expression](https://github.com/Ladydiana/Python101#conditional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
@@ -340,6 +341,13 @@ elif <expression>:	<statement>; ... ; <statement>
 else:			<statement>; ... ; <statement>
 ```
 
+The **pass** statement is required for the cases in which an if/elif/else expression has no statements to execute (yet).
+
+```python
+if a>b:
+    pass
+``` 
+
 A **conditional expression** (sometimes defined as a **ternary operator**) defines a conditional structure in which the middle expression is evaluated first. If the middle expression is true, then it executes the expression on the left, if it false it executes the expression on the right.
 
 Conditional expressions are similar to other programming languages' *<condition> ? <expression 1> : <expression 2>* structure.
@@ -349,7 +357,7 @@ Conditional expressions are similar to other programming languages' *<condition>
 ```
 
 ```python
-#Example
+#Examples
 val = a if a >= b else b
 s = 13 + (val if b < 10 else a) + 22
 ```
