@@ -346,8 +346,9 @@ else:			<statement>; ... ; <statement>
 The **pass** statement is required for the cases in which an if/elif/else expression has no statements to execute (yet).
 
 ```python
-if a>b:
+if <expression>:
     pass
+<other blocks>
 ``` 
 
 A **conditional expression** (sometimes defined as a **ternary operator**) defines a conditional structure in which the middle expression is evaluated first. If the middle expression is true, then it executes the expression on the left, if it false it executes the expression on the right.
