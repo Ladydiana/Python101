@@ -50,6 +50,8 @@
   - [else](https://github.com/Ladydiana/Python101#conditional-operators)
   - [pass](https://github.com/Ladydiana/Python101#conditional-operators)
   - [Conditional Expression](https://github.com/Ladydiana/Python101#conditional-operators)
+- [Decisional Operators](https://github.com/Ladydiana/Python101#decisional-operators)
+  - [switch](https://github.com/Ladydiana/Python101#decisional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
 ---------------------------------------------------------------
@@ -361,6 +363,12 @@ Conditional expressions are similar to other programming languages' *<condition>
 val = a if a >= b else b
 s = 13 + (val if b < 10 else a) + 22
 ```
+
+<br/>
+
+## Decisional Operators
+
+TODO: switch
 
 
 <br/>
