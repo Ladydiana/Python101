@@ -336,7 +336,7 @@ Multiple statements can be specified on the same line as an if, elif or else cla
 if <expression>:	<statement>; ... ; <statement>
 elif <expression>:	<statement>; ... ; <statement>
 ...
-else:				<statement>; ... ; <statement>
+else:			<statement>; ... ; <statement>
 ```
 
 
