@@ -48,6 +48,7 @@
   - [if](https://github.com/Ladydiana/Python101#conditional-operators)
   - [elif](https://github.com/Ladydiana/Python101#conditional-operators)
   - [else](https://github.com/Ladydiana/Python101#conditional-operators)
+  - [Conditional Expression](https://github.com/Ladydiana/Python101#conditional-operators)
 - [Loops](https://github.com/Ladydiana/Python101#loops)
 
 ---------------------------------------------------------------
@@ -337,6 +338,18 @@ if <expression>:	<statement>; ... ; <statement>
 elif <expression>:	<statement>; ... ; <statement>
 ...
 else:			<statement>; ... ; <statement>
+```
+
+A conditional expression (sometimes defined as a **ternary operator**) defines a conditional structure in which the middle expression is evaluated first. If the middle expression is true, then it executes the expression on the left, if it false it executes the expression on the right.
+Conditional expressions are similar to other programming languages' *<condition> ? <expression 1> : <expression 2>* structure.
+
+```python
+<expr1> if <conditional_expr> else <expr2>
+```
+
+```python
+#Example
+val = a if a >= b else b
 ```
 
 
