@@ -321,6 +321,7 @@ if <expression>:
 elif <expression>:
 	<statement>
 	...
+...
 else:
 	<statement>
 	...
@@ -328,6 +329,15 @@ else:
 ```
 
 In Python the *else if* statement is shortened as *elif*.
+
+Multiple statements may be specified on the same line as an if, elif or else clause as that is considered as a single block as well.
+
+```python
+if <expression>: 	<statement>; ... ; <statement>
+elif <expression>: 	<statement>; ... ; <statement>
+...
+else: 				<statement>; ... ; <statement>
+```
 
 
 <br/>
