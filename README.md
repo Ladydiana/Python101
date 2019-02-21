@@ -369,7 +369,7 @@ s = 13 + (val if b < 10 else a) + 22
 
 ## Decisional Operators
 
-Unlike many other programming languages, *Python does not have a switch-case statement built-in*.
+Unlike many other programming languages, **Python does not have a switch-case statement built-in**.
 
 However, its functionality can be mimicked using dictionaries and associative arrays.
 
