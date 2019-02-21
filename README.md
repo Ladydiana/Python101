@@ -369,7 +369,26 @@ s = 13 + (val if b < 10 else a) + 22
 
 ## Decisional Operators
 
-TODO: switch
+Unlike many other programming languages, *Python does not have a switch-case statement built-in*.
+
+However, its functionality can be mimicked using dictionaries and associative arrays.
+
+```python
+#switcher -> dictionary name
+
+def switch_case(argument):
+	switcher = {
+		a: "value 1",
+		b: "value 2",
+		c: "value 3",
+		...
+		z: "value z"
+	}
+
+print switcher.get(argument, "Invalid argument.")
+
+#The argument is looked up in the switcher dictionary and if a match is found it returns the value; if no match is found it prints "Invalid argument".
+```
 
 
 <br/>
